@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nachtgast/project/main/main/main.cpp
+main.h
+/home/nachtgast/project/main/main/main.h
+
+/home/nachtgast/project/main/main/main.h
+iostream
+-
+src/core/core.h
+/home/nachtgast/project/main/main/src/core/core.h
+
+/home/nachtgast/project/main/main/src/core/core.h
+iostream
+-
+
+/home/nachtgast/project/main/main/src/core/foo.cpp
+core.h
+/home/nachtgast/project/main/main/src/core/core.h
+
