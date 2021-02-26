@@ -1,0 +1,3 @@
+/home/dev/git/main/QTWork/build-main-Desktop_Qt_6_0_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/dev/git/main/QTWork/build-main-Desktop_Qt_6_0_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/dev/git/main/QTWork/build-main-Desktop_Qt_6_0_1_GCC_64bit-Debug/CMakeFiles/main.dir
